@@ -44,6 +44,13 @@
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
 *.vtt linguist-language=WebVTT
+# ZAP Source file
+*.zap linguist-detectable=true
+*.zap linguist-documentation=false
+*.zap linguist-language=ZAP
+*.xzap linguist-detectable=true
+*.xzap linguist-documentation=false
+*.xzap linguist-language=ZAP
 # SubRip subtitle file
 *.srt linguist-detectable=true
 *.srt linguist-documentation=false
@@ -165,6 +172,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File version: 5 (2022, Saturday, September 3rd at 7:25 pm PST)
+# Line count (including blank lines and compiler line): 178
 # End of script
